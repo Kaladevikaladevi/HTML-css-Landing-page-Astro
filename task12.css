@@ -1,0 +1,261 @@
+.firpage {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6lO9fmrWxWys4EJKh4b0RckEsAfpTPupNQQ&s);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+
+}
+
+.img-name {
+    display: flex;
+    justify-content: space-around;
+}
+
+.firimg {
+    background-image: url(binduastro.png);
+    border-radius: 80px;
+    height: 160px;
+    width: 140px;
+    margin-top: 80px;
+    margin-left: 380px;
+}
+
+.post {
+    color: aliceblue;
+    margin-right: 500px;
+    padding-top: 120px;
+}
+
+span {
+    color: aqua;
+    font-size: 40px;
+}
+
+.firpageheding-1 {
+    color: aliceblue;
+    font-size: 55px;
+    text-align: center;
+
+}
+
+.firpageheding-2 {
+    color: aliceblue;
+    font-size: 40px;
+    text-align: center;
+    margin-top: -5px;
+}
+
+.firpagepara {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.firbut1 {
+    border: 3px solid aqua;
+    color: aqua;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: rgba(240, 248, 255, 0);
+    margin-left: 550px;
+    margin-top: 30px;
+}
+
+.secpagepara {
+    text-align: center;
+    padding-top: 30px;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.bigbox {
+    height: 600px;
+    width: 1000px;
+    border: 4px solid rgb(117, 118, 121);
+    background-color: rgba(55, 139, 223, 0);
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+
+.bigbox-h3 {
+    color: rgb(0, 158, 158);
+}
+
+.inputbox1 {
+    height: 20px;
+    width: 400px;
+    border-color: rgba(255, 255, 255, 0) rgba(255, 255, 255, 0) gray;
+}
+
+.inputbox2 {
+    height: 20px;
+    width: 400px;
+    border-color: rgba(255, 255, 255, 0) rgba(255, 255, 255, 0) gray;
+}
+
+.forfirow {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.G {
+    margin-left: -50px;
+}
+
+.F {
+    display: flex;
+}
+
+.M {
+    display: flex;
+}
+
+.GI {
+    display: flex;
+}
+
+.B {
+    display: flex;
+}
+
+.genderflex {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+.birth {
+    display: flex;
+    margin-top: 50px;
+}
+
+.dob {
+    display: flex;
+}
+
+.leftbox {
+    height: 300px;
+    width: 400px;
+    background-color: rgba(151, 83, 83, 0);
+    margin-left: 60px;
+}
+
+.date {
+    height: 40px;
+    width: 70px;
+    margin-left: 5px;
+}
+
+.month {
+    height: 40px;
+    width: 70px;
+    margin-left: 5px;
+}
+
+.year {
+    height: 40px;
+    width: 90px;
+    margin-left: 5px;
+}
+
+.tob {
+    display: flex;
+}
+
+.rightbox {
+    height: 300px;
+    width: 400px;
+    margin-left: 10px;
+    background-color: rgba(119, 95, 141, 0);
+}
+
+.min {
+    height: 40px;
+    width: 70px;
+    margin-left: 5px;
+}
+
+.hour {
+    height: 40px;
+    width: 70px;
+    margin-left: 5px;
+}
+
+.am-pm {
+    height: 40px;
+    width: 90px;
+    margin-left: 5px;
+}
+
+.details1 {
+    display: flex;
+    margin-top: 50px;
+}
+
+.details2 {
+    display: flex;
+
+}
+
+.select-1 {
+
+    height: 20px;
+    width: 400px;
+    border-color: rgba(255, 255, 255, 0) rgba(255, 255, 255, 0) gray;
+
+}
+
+.select-2 {
+
+    height: 20px;
+    width: 400px;
+    border-color: rgba(255, 255, 255, 0) rgba(255, 255, 255, 0) gray;
+}
+
+.select-3 {
+
+    height: 20px;
+    width: 400px;
+    border-color: rgba(255, 255, 255, 0) rgba(255, 255, 255, 0) gray;
+}
+
+.select-4 {
+
+    height: 20px;
+    width: 400px;
+    border-color: rgba(255, 255, 255, 0) rgba(255, 255, 255, 0) gray;
+}
+
+.secbut2 {
+    border: 3px solid rgb(0, 158, 158);
+    color: #009e9e;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 40px;
+    background-color: rgba(240, 248, 255, 0);
+    margin-left: 370px;
+    padding-top: -220px;
+}
+
+.detal3 {
+    display: flex;
+
+}
+*{
+    padding:0%;
+    margin: 0%;
+}
+
+.footer {
+
+    height: 70px;
+    width: 1400px;
+    background-color: rgb(14, 14, 94);
+    display: flex;
+}
+
+.forlogos {
+    display: flex;
+    float: right;
+}
